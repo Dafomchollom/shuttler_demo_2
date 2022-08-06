@@ -11,15 +11,6 @@
       >
         <img :src="items.iconPath" width="30" alt="" />
       </a>
-      <!-- <a class="flex justify-center w-full py-4">
-        <img src="@/assets/images/icons/home.svg" width="30" alt="" />
-      </a>
-      <a class="flex justify-center w-full py-4">
-        <img src="@/assets/images/icons/alarm.svg" width="30" alt="" />
-      </a>
-      <a class="flex justify-center w-full py-4">
-        <img src="@/assets/images/icons/layers.svg" width="30" alt="" />
-      </a> -->
     </div>
   </div>
 </template>
